@@ -1,3 +1,12 @@
+### Summary
+_Provide an overview..._
+
+### Details
+_Add more context to describe the changes..._
+
+### Checks
+- [ ] Tested changes in Dev
+
 # Prerequisites
 
 Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
